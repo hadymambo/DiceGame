@@ -11,4 +11,4 @@ Copy the code into your C# development environment or a text editor and save it 
 Compile the code using a C# compiler or your IDE.
 Run the compiled executable to see the results of the dice rolls and the corresponding prize.
 
-
+For a complete code, please see the source code.
